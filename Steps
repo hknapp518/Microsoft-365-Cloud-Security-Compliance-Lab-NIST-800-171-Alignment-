@@ -1,0 +1,11 @@
+Diagram
+
+**Users and Roles** 
+
+| User               | Role                   | Description                                                   | Key Tools                             |
+| ------------------ | ---------------------- | ------------------------------------------------------------- | ------------------------------------- |
+| Harrison       | Global Administrator   | Full control; configures policies and integrations            | Azure AD, Sentinel, Defender, Purview |
+| Alice          | Security Administrator | Manages Defender for Endpoint, alerts, Sentinel rules         | Microsoft 365 Defender, Sentinel      |
+| Bob            | Compliance Officer     | Oversees DLP, labels, and compliance score tracking           | Purview Compliance Manager            |
+| Carol          | IT Support Engineer    | Enrolls devices, manages Intune policies                      | Intune, Device Compliance             |
+| David          | Standard User          | Simulated end user with conditional access and DLP monitoring | Outlook, OneDrive, Teams              |
