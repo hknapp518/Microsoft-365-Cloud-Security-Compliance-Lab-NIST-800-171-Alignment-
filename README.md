@@ -17,7 +17,7 @@ This lab demonstrates how Microsoft 365 and Azure tools can be configured to mee
 
 ##  Lab Architecture
 
-*(Insert your architecture diagram here)*
+**
 The environment simulates a small defense contractor tenant with secure access policies, protected endpoints, and centralized monitoring.
 
 ##  Implemented Controls
