@@ -4,7 +4,7 @@
 
 ##  Overview
 
-This lab demonstrates how Microsoft 365 and Azure tools can be configured to meet NIST 800-171 requirements for protecting Controlled Unclassified Information (CUI). It focuses on identity protection, endpoint security, incident response, and compliance monitoring.
+This lab demonstrates how Microsoft 365 and Azure tools can be configured to meet NIST 800-171 requirements for protecting Controlled Unclassified Information. It focuses on identity protection, endpoint security, incident response, and compliance monitoring.
 
 ##  Technologies Used
 
